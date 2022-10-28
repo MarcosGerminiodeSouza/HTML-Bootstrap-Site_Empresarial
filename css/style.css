@@ -17,16 +17,22 @@ body{
 }
 
 .parceiros{
-    background-color: gray;
-    color: whitesmoke;
+    background-color: rgb(59,70,81,1);
+    color: white;
 }
 
 .servicos{
-    background-color: aquamarine;
+    background-color: whitesmoke;
+    color: #202020;
 }
 
 .bg-footer{
-    color: white;
-    background-color: black;
+    color: whitesmoke;
+    background-color: rgb(27, 27, 27);
+    padding-top: 8px;
     padding-bottom: 1px;
+}
+
+.bg-footer span{
+    color: rgb(206, 206, 206);
 }
